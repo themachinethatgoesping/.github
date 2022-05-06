@@ -5,30 +5,22 @@ Usage
 
 Installation
 ------------
+Note, this is all ficitonal at the moment! Themachinethatgoesping is not released or published anywhere.
 
-To use Lumache, first install it using pip:
+To use themachinethatgoesping, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install themachinethatgoesping
 
-Creating recipes
+Open files
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+To open a file you can use the input library. For Kongsberg .all files e.g.:
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import themachinethatgoesping.echofiles as pingfiles
+>>> ifi = pingfiles.KongsbergAll('awesomesurvey.all',progress=True)
+>>> ping = ifi['watercolumnping'][0]
 
