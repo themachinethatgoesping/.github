@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is themachinethatgoesping (or tmtgp or ping..!). A project to enable advanced processing for multibeam and singlebeam echosounder data. For method developers and everyday users<br>
+This is themachinethatgoesping (or tmtgp or ping..!). A project to enable advanced processing for multibeam and singlebeam echosounder data.<br>
 Core libraries in this project will be implemented in C++ and exposed to python using pybind11. <br>
 These components can also be accessed via the C++ libraries directly. <br>
 But many libraries/tools/applications will be implemented in Python directly, making use of the fast prototyping capabilities and powerfull existing math libraries of this language.
