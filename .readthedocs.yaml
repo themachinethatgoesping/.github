@@ -10,10 +10,15 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.10"
-    # You can also specify other tool versions:
-    # nodejs: "16"
-    # rust: "1.55"
-    # golang: "1.17"
+
+  jobs:
+    post_checkout:
+      # Make LFS available in current repository
+      - ./git-lfs install
+      # Download content from remote
+      - ./git-lfs fetch
+      # Make local files to have the real content on them
+      - ./git-lfs checkout
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
