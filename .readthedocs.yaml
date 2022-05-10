@@ -13,11 +13,14 @@ build:
 
   jobs:
     post_checkout:
-      # Make LFS available in current repository
+      # add git lfs support (https://docs.readthedocs.io/en/stable/build-customization.html)
+      - wget https://github.com/git-lfs/git-lfs/releases/download/v3.1.4/git-lfs-linux-amd64-v3.1.4.tar.gz
+      - tar xvfz git-lfs-linux-amd64-v3.1.4.tar.gz
+      - git config filter.lfs.process "`pwd`/git-lfs filter-process"
+      - git config filter.lfs.smudge  "`pwd`/git-lfs smudge -- %f"
+      - git config filter.lfs.clean "`pwd`/git-lfs clean -- %f"
       - ./git-lfs install
-      # Download content from remote
       - ./git-lfs fetch
-      # Make local files to have the real content on them
       - ./git-lfs checkout
 
 # Build documentation in the docs/ directory with Sphinx
