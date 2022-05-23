@@ -11,6 +11,12 @@ We just started, and serious development will not happen before the end of may 2
 
 But if you are interested, just contact peter.urban@ugent.be
 
+## Status
+
+<a href="https://themachinethatgoesping.readthedocs.io">
+  <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/>
+</a>
+
 <!--
 
 **Here are some ideas to get you started:**
