@@ -14,7 +14,7 @@ But if you are interested, just contact peter.urban@ugent.be
 ## Status
 
 <a href="https://themachinethatgoesping.readthedocs.io">
-  <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/>
+  <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest" alt='readthedocs'/>
 </a>
 
 <!--
