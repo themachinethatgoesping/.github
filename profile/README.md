@@ -13,8 +13,8 @@ But if you are interested, just contact peter.urban@ugent.be
 
 ## Status
 
-<a href="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml">
-  <img src="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg" alt='CI status'/>
+<a href="https://github.com/themachinethatgoesping/actions/workflows/ci.yml">
+  <img src="https://github.com/themachinethatgoesping/actions/workflows/ci.yml/badge.svg" alt='CI status'/>
 </a>
 
 <a href="https://themachinethatgoesping.readthedocs.io">
