@@ -21,6 +21,11 @@ But if you are interested, just contact peter.urban@ugent.be
   <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/>
 </a>
 
+## Relevant repositories
+
+- **themachinethatgoesping:** superproject that builds and installs all subprojects
+- **tools:** Shared functions and interfaces
+
 <!--
 
 **Here are some ideas to get you started:**
