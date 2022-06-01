@@ -29,6 +29,13 @@ But if you are interested, just contact peter.urban@ugent.be
   <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/>
 </a>
 
+## Information
+
+<a href="https://pypi.org/project/themachinethatgoesping/">
+  <img src="https://img.shields.io/badge/python versions-3.8 | 3.9 | 3.10-informational" alt='Python versions 3.8 | 3.9 | 3.10'/>
+</a>
+
+
 ## Relevant repositories
 
 - <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml"> <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg" alt='CI status'/> </a> <a href="https://themachinethatgoesping.readthedocs.io"> <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/> </a> **themachinethatgoesping:** superproject that builds and installs all subprojects 
