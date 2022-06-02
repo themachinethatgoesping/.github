@@ -21,16 +21,16 @@ But if you are interested, just contact peter.urban@ugent.be
   <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/>
 </a>
 
-<\br>
+</br>
 <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml">
   <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml/badge.svg" alt='Build Python Linux Status'/>
 </a>
-<\br>
+</br>
 <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-windows.yml">
   <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-windows.yml/badge.svg" alt='Build Python Windows Status'/>
 </a>
 
-<\br>
+</br>
 <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-mac.yml">
   <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-mac.yml/badge.svg" alt='Build Python macOS Status'/>
 </a>
