@@ -32,7 +32,7 @@ But if you are interested, just contact peter.urban@ugent.be
 ## Information
 
 <a href="https://pypi.org/project/themachinethatgoesping/">
-  <img src="https://img.shields.io/badge/python versions-3.8 | 3.9 | 3.10-informational" alt='Python versions 3.8 | 3.9 | 3.10'/>
+  <img src="https://img.shields.io/badge/pypi(x86_64)-3.8 | 3.9 | 3.10-informational" alt='Python versions 3.8 | 3.9 | 3.10'/>
 </a>
 
 
