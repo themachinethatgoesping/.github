@@ -42,7 +42,7 @@ But if you are interested, just contact peter.urban@ugent.be
 </a>
 </br>
 <a href="[https://pypi.org/project/themachinethatgoesping/](https://themachinethatgoesping.readthedocs.io)">
-  <img src="Documentation-readthedocs" alt='Documentation'/>
+  <img src="https://img.shields.io/badge/Documentation-readthedocs-informational" alt='Documentation'/>
 </a>
 
 
