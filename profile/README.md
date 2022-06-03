@@ -41,7 +41,7 @@ But if you are interested, just contact peter.urban@ugent.be
   <img src="https://img.shields.io/badge/pypi python versions-3.8 | 3.9 | 3.10-informational" alt='Python versions 3.8 | 3.9 | 3.10'/>
 </a>
 </br>
-<a href="[https://pypi.org/project/themachinethatgoesping/](https://themachinethatgoesping.readthedocs.io)">
+<a href="https://themachinethatgoesping.readthedocs.io">
   <img src="https://img.shields.io/badge/Documentation-readthedocs-informational" alt='Documentation'/>
 </a>
 
