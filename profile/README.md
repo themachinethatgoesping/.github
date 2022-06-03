@@ -22,6 +22,11 @@ But if you are interested, just contact peter.urban@ugent.be
 </a>
 
 </br>
+<a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheel.yml">
+  <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheel.yml/badge.svg" alt='cibuildwheel status'/>
+</a>
+
+</br>
 <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml">
   <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml/badge.svg" alt='Build Python Linux Status'/>
 </a>
