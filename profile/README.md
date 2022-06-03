@@ -22,8 +22,8 @@ But if you are interested, just contact peter.urban@ugent.be
 </a>
 
 </br>
-<a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheel.yml">
-  <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheel.yml/badge.svg" alt='cibuildwheel status'/>
+<a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheels.yml">
+  <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheels.yml/badge.svg" alt='cibuildwheels status'/>
 </a>
 
 </br>
