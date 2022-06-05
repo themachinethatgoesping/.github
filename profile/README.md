@@ -52,8 +52,8 @@ If you are interested, contact peter.urban@ugent.be
 
 ## Relevant repositories
 
-- <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml"> <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg" alt='CI status'/> </a> <a href="https://themachinethatgoesping.readthedocs.io"> <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/> </a> **themachinethatgoesping:** superproject that builds and installs all subprojects 
-- <a href="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml"> <img src="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg" alt='CI status'/> </a> <a href="https://themachinethatgoesping.readthedocs.io/projects/tools"> <img src="https://readthedocs.org/projects/themachinethatgoespingtools/badge/?version=latest&style" alt='readthedocs'/> </a> **tools:** Shared functions and interfaces 
+- <a href="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml"> <img src="https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg" alt='CI status'/> </a> <a href="https://themachinethatgoesping.readthedocs.io"> <img src="https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style" alt='readthedocs'/> </a> <a href="https://github.com/themachinethatgoesping/themachinethatgoesping">**themachinethatgoesping:**</a> superproject that builds and installs all subprojects 
+- <a href="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml"> <img src="https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg" alt='CI status'/> </a> <a href="https://themachinethatgoesping.readthedocs.io/projects/tools"> <img src="https://readthedocs.org/projects/themachinethatgoespingtools/badge/?version=latest&style" alt='readthedocs'/> </a> <a href="https://github.com/themachinethatgoesping/tools">**tools:**</a> Shared functions and interfaces 
 
 <!--
 
