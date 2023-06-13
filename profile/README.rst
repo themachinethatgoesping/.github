@@ -34,7 +34,7 @@
    :target: https://github.com/themachinethatgoesping/themachinethatgoesping/
    :alt: themachinethatgoesping
    
-.. |badge-tutorials| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/mybinder.yml/badge.svg
+.. |badge-tutorials| image:: https://github.com/themachinethatgoesping/tutorials/actions/workflows/mybinder.yml/badge.svg
    :target: https://github.com/themachinethatgoesping/tutorials/
    :alt: tutorials
    
@@ -65,17 +65,22 @@
 .. |logo-DSM| image:: https://www.geomar.de/fileadmin/content/forschen/fb2/mg/deepseamon/DSM-Logo_large_black_trans.gif
    :target: https://www.geomar.de/deepsea-monitoring
    :alt: DeepSea Monitoring Group - GEOMAR
-   :height: 50
+   :height: 30
    
 .. |logo-GEOMAR| image:: https://www.geomar.de/fileadmin/_processed_/a/0/csm_geomar_logo_kurz_4c-large_e50ee49df0.jpg
    :target: https://www.geomar.de/
    :alt: GEOMAR Helholtz-Centre for ocean research Kiel
-   :height: 50
+   :height: 30
    
 .. |logo-UGent| image:: https://www.ugent.be/++theme++ugent/static/images/logo_ugent_nl.svg
    :target: https://www.ugent.be/nl
    :alt: Ghent University
-   :height: 50
+   :height: 30
+   
+.. |logo-belspo| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_BELSPO.jpg/800px-Logo_BELSPO.jpg
+   :target: https://www.belspo.be
+   :alt: belspo
+   :height: 30
    
    
 | |badge-license| |info-python| |info-docs|
@@ -139,4 +144,4 @@ Acknowledgements / Funding
 ==========================
 
 - The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
-- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| for the TURBEAMS project |logo-TURBEAMS| that is financed by BELSPO |logo-BELSPO|
+- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the TURBEAMS project |logo-TURBEAMS| that is financed by the Belgian Science Policy Office (belspo) |logo-belspo|
