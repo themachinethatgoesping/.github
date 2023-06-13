@@ -90,9 +90,25 @@ themachinethatgoesping
 
 | Hi there 👋 **themachinethatgosping** (short: **ping**) aims at enabling advanced processing of multibeam and singlebeam echosounder data. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). On top of the core, many libraries, tools and applications will be implemented in Python directly, making use of the fast prototyping features of this language.
 |
-| This project is still in early stage; at the moment it is just a powerfull raw data reader for Kongsberg .all/.wcd and Simard .raw data. However this already enables you to get glimples of what ping will be. See the it possible to plot some simple echograms or extract the navigation data from the raw files (see tutorials repository)
+| This project is in early stage; at the moment it is just a powerfull raw data reader for Kongsberg .all/.wcd and Simard .raw data. However you can get glimples of what ping will be like and e.g. plot some simple echograms or extract the navigation data from the raw files (see tutorials repository)
 |
 | More will follow soon. If you are interested in our plans and time line, contact me: peter.urban@ugent.be
+
+installation
+============
+
+**Ping** is distributed via pypi. Install e.g. via pip:
+
+.. code-block:: python
+
+  pip install themachinethatgoes ping
+  
+For more details or installing from source see the main repository: `themachinethatgoesping <https://github.com/themachinethatgoesping/themachinethatgoesping>`_
+
+tutorials
+=========
+
+We provide jupyter notebook tutorials with instalation instructions in the tutorials repository: `tutorials <https://github.com/themachinethatgoesping/tutorials>`_
 
 status
 ######
@@ -109,17 +125,17 @@ relevant repositories
 
 Ping consists of a number of repositories that represent individual modules. It is not necessary to check all of these repositories individually. The **themachinethatgoesping** repository includes all module repositories as subprojects. If you just want to test ping, the tutorials repository includes everything that is necessary.
 
-- |badge-themachinethatgoesping| **themachinethatgoesping:** superproject that builds and installs all subprojects 
+- |badge-themachinethatgoesping| `themachinethatgoesping <https://github.com/themachinethatgoesping/themachinethatgoesping>`_: superproject that builds and installs all subprojects 
 
-- |badge-tutorials| **tutorials:** Tutorial and example notebooks
+- |badge-tutorials| `tutorials <https://github.com/themachinethatgoesping/tutorials>`_: Tutorial and example notebooks
 
-- |badge-tools| **tools:** Shared functions and interfaces 
+- |badge-tools| `tools <https://github.com/themachinethatgoesping/tools>`_: Shared functions and interfaces 
 
-- |badge-navigation| **navigation:** Store and transform navigation data
+- |badge-navigation| `navigation <https://github.com/themachinethatgoesping/navigation>`_: Store and transform navigation data
 
-- |badge-echosounders| **echosounders:** Read, write and process single- and multibeam echo sounder files.
+- |badge-echosounders| `echosounders <https://github.com/themachinethatgoesping/echosounders>`_: Read, write and process single- and multibeam echo sounder files.
 
-- |badge-gridding| **gridding:** Gridding functions (python only test repo) 
+- |badge-gridding| `gridding <https://github.com/themachinethatgoesping/gridding>`_: Gridding functions (python only test repo) 
 
 license
 #######
