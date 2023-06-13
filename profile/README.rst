@@ -83,7 +83,8 @@
    :height: 30
    
    
-| |badge-license| |info-python| |info-docs| |badge-ci|
+| |badge-license| |info-python|
+| |info-docs| |badge-ci|
 
 themachinethatgoesping
 ======================
