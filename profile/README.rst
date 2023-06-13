@@ -83,7 +83,7 @@
    :height: 30
    
    
-| |badge-license| |info-python| |info-docs|
+| |badge-license| |info-python| |info-docs| |badge-ci|
 
 themachinethatgoesping
 ======================
@@ -113,8 +113,7 @@ We provide jupyter notebook tutorials with instalation instructions in the tutor
 status
 ######
 
-| |badge-ci|
-| |badge-docs|
+| |badge-ci| |badge-docs|
 | |badge-ci-buildwheel|
 | |badge-ci-python-linux|
 | |badge-ci-python-windows|
