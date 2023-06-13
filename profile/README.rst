@@ -1,0 +1,142 @@
+.. SPDX-FileCopyrightText: 2023 Peter Urban, Ghent University
+..
+.. SPDX-License-Identifier: MPL-2.0
+
+.. |badge-ci| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml
+   :alt: CI status
+   
+.. |badge-docs| image:: https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style
+   :target: https://readthedocs.org/projects/themachinethatgoesping/builds/
+   :alt: ci-readthedocs
+   
+.. |badge-ci-buildwheel| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheels.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheels.yml
+   :alt: ci-buildwheel
+   
+.. |badge-ci-python-linux| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml
+   :alt: ci-python-linux
+   
+.. |badge-ci-python-windows| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-windows.yml
+   :alt: ci-python-windows
+   
+.. |badge-ci-python-mac| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-mac.yml
+   :alt: ci-python-mac
+   
+.. |badge-license| image:: https://img.shields.io/badge/license:-MPL--2.0-green
+   :target: https://opensource.org/license/mpl-2-0/
+   :alt: license: MPL-2.0
+   
+.. |badge-themachinethatgoesping| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/
+   :alt: themachinethatgoesping
+   
+.. |badge-tutorials| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/mybinder.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/tutorials/
+   :alt: tutorials
+   
+.. |badge-tools| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/tools/
+   :alt: tools
+   
+.. |badge-navigation| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/navgiation/
+   :alt: navigation
+   
+.. |badge-echosounders| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/echosounders/
+   :alt: echosoudners
+   
+.. |badge-gridding| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/gridding/
+   :alt: gridding
+   
+.. |info-python| image:: https://img.shields.io/badge/python-3.8 | 3.9 | 3.10 | 3.11-informational
+   :target: https://pypi.org/project/themachinethatgoesping/
+   :alt: Python versions 3.8 | 3.9 | 3.10 | 3.11
+   
+.. |info-docs| image:: https://img.shields.io/badge/Documentation-readthedocs-informational
+   :target: https://themachinethatgoesping.readthedocs.io
+   :alt: readthedocs
+   
+.. |logo-DSM| image:: https://www.geomar.de/fileadmin/content/forschen/fb2/mg/deepseamon/DSM-Logo_large_black_trans.gif
+   :target: https://www.geomar.de/deepsea-monitoring
+   :alt: DeepSea Monitoring Group - GEOMAR
+   :height: 50
+   
+.. |logo-GEOMAR| image:: https://www.geomar.de/fileadmin/_processed_/a/0/csm_geomar_logo_kurz_4c-large_e50ee49df0.jpg
+   :target: https://www.geomar.de/
+   :alt: GEOMAR Helholtz-Centre for ocean research Kiel
+   :height: 50
+   
+.. |logo-UGent| image:: https://www.ugent.be/++theme++ugent/static/images/logo_ugent_nl.svg
+   :target: https://www.ugent.be/nl
+   :alt: Ghent University
+   :height: 50
+   
+   
+| |badge-license| |info-python| |info-docs|
+
+themachinethatgoesping
+======================
+
+| Hi there 👋 **themachinethatgosping** (short: **ping**) aims at enabling advanced processing of multibeam and singlebeam echosounder data. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). On top of the core, many libraries, tools and applications will be implemented in Python directly, making use of the fast prototyping features of this language.
+|
+| This project is still in early stage; at the moment it is just a powerfull raw data reader for Kongsberg .all/.wcd and Simard .raw data. However this already enables you to get glimples of what ping will be. See the it possible to plot some simple echograms or extract the navigation data from the raw files (see tutorials repository)
+|
+| More will follow soon. If you are interested in our plans and time line, contact me: peter.urban@ugent.be
+
+status
+######
+
+| |badge-ci|
+| |badge-docs|
+| |badge-ci-buildwheel|
+| |badge-ci-python-linux|
+| |badge-ci-python-windows|
+| |badge-ci-python-mac|
+
+relevant repositories
+#####################
+
+Ping consists of a number of repositories that represent individual modules. It is not necessary to check all of these repositories individually. The **themachinethatgoesping** repository includes all module repositories as subprojects. If you just want to test ping, the tutorials repository includes everything that is necessary.
+
+- |badge-themachinethatgoesping| **themachinethatgoesping:** superproject that builds and installs all subprojects 
+
+- |badge-tutorials| **tutorials:** Tutorial and example notebooks
+
+- |badge-tools| **tools:** Shared functions and interfaces 
+
+- |badge-navigation| **navigation:** Store and transform navigation data
+
+- |badge-echosounders| **echosounders:** Read, write and process single- and multibeam echo sounder files.
+
+- |badge-gridding| **gridding:** Gridding functions (python only test repo) 
+
+license
+#######
+Most of ping is distributed under the Mozilla Public License Version 2.0 (MPL-2.0)
+
+In simple terms: The MPL-2.0 license implements a non-viral copyleft; Licensed files are protected by the copyleft, but they can still be deeply integrated even in comercial, closed source projects, as long as the file itself stays open source. 
+
+Note that this simplified description is not a legal advice and does not cover all aspects of the license. For this please refer to the license self: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
+
+For other sources that may be easyer to comprehend see also
+
+- https://www.mozilla.org/en-US/MPL/2.0/
+- https://fossa.com/blog/open-source-software-licenses-101-mozilla-public-license-2-0/
+- https://opensource.org/license/mpl-2-0/
+
+Contributing / Further development / Use
+#######################################
+
+This project is still in early stage (bootstrapping). Documentation is mediocore at best. If you are interested in testing/using/contributing to this project, please contact me: peter.urban@ugent.be 
+
+Acknowledgements / Funding
+==========================
+
+- The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
+- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| for the TURBEAMS project |logo-TURBEAMS| that is financed by BELSPO |logo-BELSPO|
