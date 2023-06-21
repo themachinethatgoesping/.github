@@ -31,27 +31,27 @@
    :alt: license: MPL-2.0
    
 .. |badge-themachinethatgoesping| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml
    :alt: themachinethatgoesping
    
 .. |badge-tutorials| image:: https://github.com/themachinethatgoesping/tutorials/actions/workflows/mybinder.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/tutorials/
+   :target: https://github.com/themachinethatgoesping/tutorials/actions/workflows/ci.yml
    :alt: tutorials
    
 .. |badge-tools| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/tools/
+   :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml
    :alt: tools
    
 .. |badge-navigation| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/navgiation/
+   :target: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci.yml
    :alt: navigation
    
 .. |badge-echosounders| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/echosounders/
+   :target: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci.yml
    :alt: echosoudners
    
 .. |badge-gridding| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/gridding/
+   :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml
    :alt: gridding
    
 .. |info-python| image:: https://img.shields.io/badge/python-3.8 | 3.9 | 3.10 | 3.11-informational
