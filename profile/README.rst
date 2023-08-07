@@ -139,6 +139,8 @@ Ping consists of a number of repositories that represent individual modules. It 
 
 - |badge-echosounders| `echosounders <https://github.com/themachinethatgoesping/echosounders>`_: Read, write and process single- and multibeam echo sounder files.
 
+- |badge-pingprocessing| `pingprocessing <https://github.com/themachinethatgoesping/pingprocessing>`_: Process pings (e.g. to echograms).
+
 - |badge-gridding| `gridding <https://github.com/themachinethatgoesping/gridding>`_: Gridding functions (python only test repo) 
 
 license
