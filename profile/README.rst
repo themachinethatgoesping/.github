@@ -95,9 +95,9 @@
    :height: 30
    
    
-| |badge-license| |info-python| |info-pypi|
+| |info-python| |info-pypi|
 
-| |info-docs| |badge-ci|
+| |badge-license| |info-docs| |badge-ci|
 
 themachinethatgoesping
 ======================
