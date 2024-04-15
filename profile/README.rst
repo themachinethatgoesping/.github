@@ -38,9 +38,17 @@
    :target: https://github.com/themachinethatgoesping/tutorials/actions/workflows/ci.yml
    :alt: tutorials
    
-.. |badge-tools| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci.yml
-   :alt: tools
+.. |badge-tools-linux| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-linux.yml
+   :alt: tools-linux
+
+.. |badge-tools-windows| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-windows.yml
+   :alt: tools-windows
+
+.. |badge-tools-mac| image:: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-mac.yml
+   :alt: tools-mac
 
 .. |badge-algorithms| image:: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci.yml/badge.svg
    :target: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci.yml
@@ -141,7 +149,7 @@ Ping consists of a number of repositories that represent individual modules. It 
 
 - |badge-tutorials| `tutorials <https://github.com/themachinethatgoesping/tutorials>`_: Tutorial and example notebooks
 
-- |badge-tools| `tools <https://github.com/themachinethatgoesping/tools>`_: Shared functions and interfaces 
+- |badge-tools-linux| |badge-tools-windows| |badge-tools-mac| `tools <https://github.com/themachinethatgoesping/tools>`_: Shared functions and interfaces 
 
 - |badge-algorithms| `algorithms <https://github.com/themachinethatgoesping/algorithms>`_: Algorithms for e.g. applying absorption, raytracing, bottom detection on echograms ...
 
