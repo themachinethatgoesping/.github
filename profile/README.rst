@@ -26,7 +26,7 @@
    :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-mac.yml
    :alt: ci-python-mac
    
-.. |badge-license| image:: https://img.shields.io/badge/license:-MPL--2.0-green
+.. |badge-license| image:: https://img.shields.io/badge/license:-MPL--2%2E0-green
    :target: https://opensource.org/license/mpl-2-0/
    :alt: license: MPL-2.0
    
@@ -62,10 +62,10 @@
    :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml
    :alt: gridding
    
-.. |info-python| image:: https://img.shields.io/badge/python-3.10 | 3.11 | 3.12-informational
+.. |info-python| image:: https://img.shields.io/badge/python-3%2E10 | 3%2E11 | 3%2E12 |-informational
    :target: https://pypi.org/project/themachinethatgoesping/
    :alt: Python versions 3.10 | 3.11 | 3.12
-   
+
 .. |info-docs| image:: https://img.shields.io/badge/Documentation-readthedocs-informational
    :target: https://themachinethatgoesping.readthedocs.io
    :alt: readthedocs
@@ -93,7 +93,7 @@
    
 | |badge-license| |info-python|
 
-| |info-python| |info-docs| |badge-ci|
+| |info-docs| |badge-ci|
 
 themachinethatgoesping
 ======================
