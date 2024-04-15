@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2023 Peter Urban, Ghent University
+.. SPDX-FileCopyrightText: 2024 Peter Urban, Ghent University
 ..
 .. SPDX-License-Identifier: MPL-2.0
 
@@ -66,6 +66,10 @@
    :target: https://pypi.org/project/themachinethatgoesping/
    :alt: Python versions 3.10 | 3.11 | 3.12
 
+.. |info-pypi| image:: https://img.shields.io/pypi/v/themachinethatgoesping
+   :target: https://pypi.org/project/themachinethatgoesping/
+   :alt: PyPI - Version
+
 .. |info-docs| image:: https://img.shields.io/badge/Documentation-readthedocs-informational
    :target: https://themachinethatgoesping.readthedocs.io
    :alt: readthedocs
@@ -91,7 +95,7 @@
    :height: 30
    
    
-| |badge-license| |info-python|
+| |badge-license| |info-python| |info-pypi|
 
 | |info-docs| |badge-ci|
 
