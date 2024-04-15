@@ -92,6 +92,7 @@
    
    
 | |badge-license| |info-python|
+
 | |info-docs| |badge-ci|
 
 themachinethatgoesping
