@@ -2,9 +2,17 @@
 ..
 .. SPDX-License-Identifier: MPL-2.0
 
-.. |badge-ci| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml
-   :alt: CI status
+.. |badge-ci-linux| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-linux.yml
+   :alt: CI status (linux)
+
+.. |badge-ci-windows| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-windows.yml
+   :alt: CI status (windows)
+
+.. |badge-ci-mac| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-mac.yml
+   :alt: CI status (mac)
    
 .. |badge-docs| image:: https://readthedocs.org/projects/themachinethatgoesping/badge/?version=latest&style
    :target: https://readthedocs.org/projects/themachinethatgoesping/builds/
@@ -30,9 +38,17 @@
    :target: https://opensource.org/license/mpl-2-0/
    :alt: license: MPL-2.0
    
-.. |badge-themachinethatgoesping| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci.yml
-   :alt: themachinethatgoesping
+.. |badge-themachinethatgoesping-linux| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-linux.yml
+   :alt: themachinethatgoesping-linux
+
+.. |badge-themachinethatgoesping-windows| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-windows.yml
+   :alt: themachinethatgoesping-windows
+
+.. |badge-themachinethatgoesping-mac| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/ci-mac.yml
+   :alt: themachinethatgoesping-mac
    
 .. |badge-tutorials| image:: https://github.com/themachinethatgoesping/tutorials/actions/workflows/mybinder.yml/badge.svg
    :target: https://github.com/themachinethatgoesping/tutorials/actions/workflows/ci.yml
@@ -50,25 +66,65 @@
    :target: https://github.com/themachinethatgoesping/tools/actions/workflows/ci-mac.yml
    :alt: tools-mac
 
-.. |badge-algorithms| image:: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci.yml
-   :alt: algorithms
+.. |badge-algorithms-linux| image:: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-linux.yml
+   :alt: algorithms-linux
+
+.. |badge-algorithms-windows| image:: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-windows.yml
+   :alt: algorithms-windows
+
+.. |badge-algorithms-mac| image:: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/algorithms/actions/workflows/ci-mac.yml
+   :alt: algorithms-mac
    
-.. |badge-navigation| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci.yml
-   :alt: navigation
+.. |badge-navigation-linux| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-linux.yml
+   :alt: navigation-linux
    
-.. |badge-echosounders| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci.yml
-   :alt: echosoudners
+.. |badge-navigation-windows| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-windows.yml
+   :alt: navigation-windows
    
-.. |badge-pingprocessing| image:: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci.yml
-   :alt: pingprocessing
+.. |badge-navigation-mac| image:: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/navigation/actions/workflows/ci-mac.yml
+   :alt: navigation-mac
    
-.. |badge-gridding| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci.yml
-   :alt: gridding
+.. |badge-echosounders-linux| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-linux.yml
+   :alt: echosoudners-linux
+   
+.. |badge-echosounders-windows| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-windows.yml
+   :alt: echosoudners-windows
+   
+.. |badge-echosounders-mac| image:: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/echosounders/actions/workflows/ci-mac.yml
+   :alt: echosoudners-mac
+   
+.. |badge-pingprocessing-linux| image:: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-linux.yml
+   :alt: pingprocessing-linux
+   
+.. |badge-pingprocessing-windows| image:: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-windows.yml
+   :alt: pingprocessing-windows
+   
+.. |badge-pingprocessing-mac| image:: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/pingprocessing/actions/workflows/ci-mac.yml
+   :alt: pingprocessing-mac
+   
+.. |badge-gridding-linux| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-linux.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-linux.yml
+   :alt: gridding-linux
+   
+.. |badge-gridding-windows| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-windows.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-windows.yml
+   :alt: gridding-windows
+   
+.. |badge-gridding-mac| image:: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-mac.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/gridding/actions/workflows/ci-mac.yml
+   :alt: gridding-mac
    
 .. |info-python| image:: https://img.shields.io/badge/python-3%2E10 | 3%2E11 | 3%2E12 -informational
    :target: https://pypi.org/project/themachinethatgoesping/
@@ -105,7 +161,9 @@
    
 | |info-python| |info-pypi|
 
-| |badge-license| |info-docs| |badge-ci|
+| |badge-license| |info-docs|
+
+| |badge-ci-linux| |badge-ci-windows| |badge-ci-mac|
 
 themachinethatgoesping
 ======================
@@ -145,21 +203,21 @@ relevant repositories
 
 Ping consists of a number of repositories that represent individual modules. It is not necessary to check all of these repositories individually. The **themachinethatgoesping** repository includes all module repositories as subprojects. If you just want to test ping, the tutorials repository includes everything that is necessary.
 
-- |badge-themachinethatgoesping| `themachinethatgoesping <https://github.com/themachinethatgoesping/themachinethatgoesping>`_: superproject that builds and installs all subprojects 
-
 - |badge-tutorials| `tutorials <https://github.com/themachinethatgoesping/tutorials>`_: Tutorial and example notebooks
+
+- |badge-themachinethatgoesping-linux| |badge-themachinethatgoesping-windows| |badge-themachinethatgoesping-mac| `themachinethatgoesping <https://github.com/themachinethatgoesping/themachinethatgoesping>`_: superproject that builds and installs all subprojects 
 
 - |badge-tools-linux| |badge-tools-windows| |badge-tools-mac| `tools <https://github.com/themachinethatgoesping/tools>`_: Shared functions and interfaces 
 
-- |badge-algorithms| `algorithms <https://github.com/themachinethatgoesping/algorithms>`_: Algorithms for e.g. applying absorption, raytracing, bottom detection on echograms ...
+- |badge-algorithms-linux| |badge-algorithms-windows| |badge-algorithms-mac| `algorithms <https://github.com/themachinethatgoesping/algorithms>`_: Algorithms for e.g. applying absorption, raytracing, bottom detection on echograms ...
 
-- |badge-navigation| `navigation <https://github.com/themachinethatgoesping/navigation>`_: Store and transform navigation data
+- |badge-navigation-linux| |badge-navigation-windows| |badge-navigation-mac| `navigation <https://github.com/themachinethatgoesping/navigation>`_: Store and transform navigation data
 
-- |badge-echosounders| `echosounders <https://github.com/themachinethatgoesping/echosounders>`_: Read, write and process single- and multibeam echo sounder files.
+- |badge-echosounders-linux| |badge-echosounders-windows| |badge-echosounders-mac| `echosounders <https://github.com/themachinethatgoesping/echosounders>`_: Read, write and process single- and multibeam echo sounder files.
 
-- |badge-pingprocessing| `pingprocessing <https://github.com/themachinethatgoesping/pingprocessing>`_: Process pings (e.g. to echograms).
+- |badge-pingprocessing-linux| |badge-pingprocessing-windows| |badge-pingprocessing-mac| `pingprocessing <https://github.com/themachinethatgoesping/pingprocessing>`_: Process pings (e.g. to echograms).
 
-- |badge-gridding| `gridding <https://github.com/themachinethatgoesping/gridding>`_: Gridding functions (python only test repo) 
+- |badge-gridding-linux| |badge-gridding-windows| |badge-gridding-mac| `gridding <https://github.com/themachinethatgoesping/gridding>`_: Gridding functions (python only test repo) 
 
 license
 #######
