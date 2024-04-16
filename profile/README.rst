@@ -234,7 +234,7 @@ For other sources that may be easyer to comprehend see also
 - https://opensource.org/license/mpl-2-0/
 
 Contributing / Further development / Use
-#######################################
+########################################
 
 This project is still in early stage (bootstrapping). Documentation is mediocore at best. If you are interested in testing/using/contributing to this project, please contact me: peter.urban@ugent.be 
 
