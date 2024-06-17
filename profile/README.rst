@@ -193,7 +193,7 @@ We provide jupyter notebook tutorials with instalation instructions in the tutor
 status
 ######
 
-| |badge-ci| |badge-docs|
+| |badge-docs|
 | |badge-ci-python-linux|
 | |badge-ci-python-windows|
 | |badge-ci-python-mac|
