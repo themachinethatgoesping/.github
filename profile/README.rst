@@ -130,6 +130,10 @@
    :target: https://pypi.org/project/themachinethatgoesping/
    :alt: Python versions 3.11 | 3.12 | 3.13
 
+.. |info-conda| image:: https://anaconda.org/themachinethatgoesping/themachinethatgoesping/badges/version.svg
+   :target: https://anaconda.org/themachinethatgoesping/themachinethatgoesping
+   :alt: Conda - Version
+
 .. |info-pypi| image:: https://img.shields.io/pypi/v/themachinethatgoesping
    :target: https://pypi.org/project/themachinethatgoesping/
    :alt: PyPI - Version
@@ -159,7 +163,7 @@
    :height: 30
    
    
-| |info-python| |info-pypi|
+| |info-python| |info-pypi| |info-conda|
 
 | |badge-license| |info-docs|
 
