@@ -22,6 +22,10 @@
    :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/cibuildwheels.yml
    :alt: ci-buildwheel
    
+.. |badge-ci-conda| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/rattler.yml/badge.svg
+   :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/rattler.yml
+   :alt: ci-conda-rattler
+
 .. |badge-ci-python-linux| image:: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml/badge.svg
    :target: https://github.com/themachinethatgoesping/themachinethatgoesping/actions/workflows/python-package-linux.yml
    :alt: ci-python-linux
@@ -201,6 +205,7 @@ status
 | |badge-ci-python-linux|
 | |badge-ci-python-windows|
 | |badge-ci-python-mac|
+| |badge-ci-conda|
 
 relevant repositories
 #####################
