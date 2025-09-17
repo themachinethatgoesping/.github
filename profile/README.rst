@@ -154,17 +154,28 @@
 .. |logo-GEOMAR| image:: https://www.geomar.de/fileadmin/_processed_/a/0/csm_geomar_logo_kurz_4c-large_e50ee49df0.jpg
    :target: https://www.geomar.de/
    :alt: GEOMAR Helholtz-Centre for ocean research Kiel
-   :height: 30
+   :height: 25
    
 .. |logo-UGent| image:: https://www.ugent.be/++theme++ugent/static/images/logo_ugent_nl.svg
    :target: https://www.ugent.be/nl
    :alt: Ghent University
-   :height: 30
+   :height: 25
    
 .. |logo-belspo| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_BELSPO.jpg/800px-Logo_BELSPO.jpg
    :target: https://www.belspo.be
    :alt: belspo
-   :height: 30
+   :height: 25
+
+.. |logo-TURBEAMS| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/turbeams_black.png
+   :target: https://hydrogeo.ugent.be/turbeams-about/
+   :alt: TURBEAMS
+   :height: 15
+
+.. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/cropped-urcoustics-1-no-background-179x37.png
+   :target: https://urcoustics.com/
+   :alt: Urcoustics
+   :height: 15
+
    
    
 | |info-python| |info-pypi| |info-conda|
@@ -251,4 +262,5 @@ Acknowledgements / Funding
 ==========================
 
 - The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
-- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the TURBEAMS project |logo-TURBEAMS| that is financed by the Belgian Science Policy Office (belspo) |logo-belspo|
+- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| 
+- Additional contributions come from  |logo-Urcoustics|  which is a hydroacoustics and software consultancy base in Delth, The Netherlands
