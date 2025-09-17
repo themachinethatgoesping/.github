@@ -174,7 +174,7 @@
 .. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/urcoustics-1-no-background.svg
    :target: https://urcoustics.com/
    :alt: Urcoustics
-   :height: 15
+   :height: 25
 
    
    
@@ -187,11 +187,11 @@
 themachinethatgoesping
 ======================
 
-| Hi there 👋 **themachinethatgosping** (short: **Ping**) aims at enabling advanced processing of multibeam and singlebeam echosounder data. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). On top of the core, many libraries, tools and applications will be implemented in Python directly, making use of the fast prototyping features of this language.
+| Hi there 👋 **themachinethatgosping** (short: **Ping**) aims at enabling advanced processing of multibeam and singlebeam echosounder data. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). On top of the core, many libraries, tools and applications are implemented in Python , making use of the fast prototyping features of this language.
 |
-| This project is in early stage; at the moment it is just a powerfull raw data reader for Kongsberg .all/.wcd and Simard .raw data. However you can get glimples of what ping will be like and e.g. plot some simple echograms or extract the navigation data from the raw files (see tutorials repository)
+| We currently handle Kongsberg .all/.wcd and Simrad EK80 .raw files. Kongsberg .kmall and .s7k will follow soon.
 |
-| More will follow soon. If you are interested in our plans and time line, contact me: peter.urban@ugent.be
+| If you are interested in our plans and time line or tutorials, contact me: peter.urban@ugent.be
 
 installation
 ============
@@ -253,14 +253,9 @@ For other sources that may be easyer to comprehend see also
 - https://fossa.com/blog/open-source-software-licenses-101-mozilla-public-license-2-0/
 - https://opensource.org/license/mpl-2-0/
 
-Contributing / Further development / Use
-########################################
-
-This project is still in early stage (bootstrapping). Documentation is mediocore at best. If you are interested in testing/using/contributing to this project, please contact me: peter.urban@ugent.be 
-
 Acknowledgements / Funding
 ==========================
 
 - The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
 - Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| 
-- Additional contributions come from  |logo-Urcoustics|  which is a hydroacoustics and software consultancy base in Delth, The Netherlands
+- Additional contributions come from |logo-Urcoustics|, a hydroacoustics and software consultancy based in Delft, The Netherlands
