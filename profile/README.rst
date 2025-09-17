@@ -171,7 +171,7 @@
    :alt: TURBEAMS
    :height: 15
 
-.. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/cropped-urcoustics-1-no-background-179x37.png
+.. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/urcoustics-1-no-background.svg
    :target: https://urcoustics.com/
    :alt: Urcoustics
    :height: 15
