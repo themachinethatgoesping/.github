@@ -262,5 +262,5 @@ Acknowledgements / Funding
 ==========================
 
 - The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
-- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| 
+- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| and within the |logo-SSPIRIT| project.
 - Additional contributions come from |logo-Urcoustics|, a hydroacoustics and software consultancy based in Delft, The Netherlands
