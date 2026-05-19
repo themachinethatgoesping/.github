@@ -171,6 +171,11 @@
    :alt: TURBEAMS
    :height: 15
 
+.. |logo-SSPIRIT| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/SSPIRIT-transparent.png
+   :target: https://hydrogeo.ugent.be/sspirit-about/
+   :alt: SSPIRIT
+   :height: 15
+
 .. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/urcoustics-1-no-background.svg
    :target: https://urcoustics.com/
    :alt: Urcoustics
