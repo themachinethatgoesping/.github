@@ -161,7 +161,7 @@
    :alt: Ghent University
    :height: 25
    
-.. |logo-belspo| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_BELSPO.jpg/800px-Logo_BELSPO.jpg
+.. |logo-belspo| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/BELSPO_logo.jpg
    :target: https://www.belspo.be
    :alt: belspo
    :height: 25
