@@ -174,7 +174,7 @@
 .. |logo-SSPIRIT| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/SSPIRIT-transparent.png
    :target: https://hydrogeo.ugent.be/sspirit-about/
    :alt: SSPIRIT
-   :height: 15
+   :height: 25
 
 .. |logo-Urcoustics| image:: https://urcoustics.com/wp-content/uploads/2025/09/urcoustics-1-no-background.svg
    :target: https://urcoustics.com/
@@ -192,9 +192,10 @@
 themachinethatgoesping
 ======================
 
-| Hi there 👋 **themachinethatgosping** (short: **Ping**) aims at enabling advanced processing of multibeam and singlebeam echosounder data. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). On top of the core, many libraries, tools and applications are implemented in Python , making use of the fast prototyping features of this language.
+| Hi there 👋 **themachinethatgosping** (short: **Ping**) enables advanced processing of large amounts multibeam and singlebeam echosounder data using Python. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). 
+On top of the core, tools and widgets are implemented in Python, making use of the fast prototyping features of this language.
 |
-| We currently handle Kongsberg .all/.wcd and Simrad EK80 .raw files. Kongsberg .kmall and .s7k will follow soon.
+| We currently handle Kongsberg .all/.wcd, .kmall/.wcd and Simrad EK80 .raw files.
 |
 | If you are interested in our plans and time line or tutorials, contact me: peter.urban@ugent.be
 
@@ -250,9 +251,9 @@ Most of ping is distributed under the Mozilla Public License Version 2.0 (MPL-2.
 
 In simple terms: The MPL-2.0 license implements a non-viral copyleft; Licensed files are protected by the copyleft, but they can still be deeply integrated even in comercial, closed source projects, as long as the file itself stays open source. 
 
-Note that this simplified description is not a legal advice and does not cover all aspects of the license. For this please refer to the license self: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
+Note: this simplified description is not a legal advice and does not cover all aspects of the license. Please refer to the license self: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 
-For other sources that may be easyer to comprehend see also
+For other sources on the licens"
 
 - https://www.mozilla.org/en-US/MPL/2.0/
 - https://fossa.com/blog/open-source-software-licenses-101-mozilla-public-license-2-0/
@@ -262,5 +263,5 @@ Acknowledgements / Funding
 ==========================
 
 - The code of this project is partly based on code that was written while working for the DeepSea Monitoring Group |logo-DSM| at GEOMAR, Helmholtz Centre for Ocean Research, Kiel, Germany. |logo-GEOMAR|
-- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| and within the |logo-SSPIRIT| project.
+- Current development is happening at Ghent University, Ghent, Belgium |logo-UGent| within the  |logo-TURBEAMS|  project that is financed by the Belgian Science Policy Office |logo-belspo| and further within the |logo-SSPIRIT| project which enabled i.e. the implementation of the .kmall file format
 - Additional contributions come from |logo-Urcoustics|, a hydroacoustics and software consultancy based in Delft, The Netherlands
