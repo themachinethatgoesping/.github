@@ -1,4 +1,4 @@
-.. SPDX-FileCopyrightText: 2024 Peter Urban, Ghent University
+.. SPDX-FileCopyrightText: 2024-2026 Peter Urban, Ghent University
 ..
 .. SPDX-License-Identifier: MPL-2.0
 
@@ -202,12 +202,18 @@ On top of the core, tools and widgets are implemented in Python, making use of t
 installation
 ============
 
-**Ping** is distributed via pypi. Install e.g. via pip:
+**Ping** is distributed via pypi and conda. Install e.g. via pip:
 
 .. code-block:: python
 
   pip install themachinethatgoesping
-  
+
+Install via anaconda:
+
+.. code-block:: python
+
+   conda install themachinethatgoesping -c themachinethatgoesping
+
 For more details or installing from source see the main repository: `themachinethatgoesping <https://github.com/themachinethatgoesping/themachinethatgoesping>`_
 
 tutorials
