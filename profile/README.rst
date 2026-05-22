@@ -195,7 +195,7 @@ themachinethatgoesping
 | Hi there 👋 **themachinethatgosping** (short: **Ping**) enables advanced processing of large amounts multibeam and singlebeam echosounder data using Python. Core components of this library are implemented in C++ (for performance) and are then exposed as high level python interfaces (for usability). 
 On top of the core, tools and widgets are implemented in Python, making use of the fast prototyping features of this language.
 |
-| We currently handle Kongsberg .all/.wcd, .kmall/.wcd and Simrad EK80 .raw files.
+| We currently handle Kongsberg .all/.wcd, .kmall/.kmwcd and Simrad EK80 .raw files.
 |
 | If you are interested in our plans and time line or tutorials, contact me: peter.urban@ugent.be
 
