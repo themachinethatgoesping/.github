@@ -179,7 +179,7 @@
 .. |logo-Urcoustics| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/urcoustics_glow.png
    :target: https://urcoustics.com/
    :alt: Urcoustics
-   :height: 25
+   :height: 30
 
    
    
