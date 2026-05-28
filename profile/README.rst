@@ -176,7 +176,7 @@
    :alt: SSPIRIT
    :height: 25
 
-.. |logo-Urcoustics| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/logo_v4_c.png
+.. |logo-Urcoustics| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/ucroustics_white_shadow.svg
    :target: https://urcoustics.com/
    :alt: Urcoustics
    :height: 25
