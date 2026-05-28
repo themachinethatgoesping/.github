@@ -176,10 +176,10 @@
    :alt: SSPIRIT
    :height: 25
 
-.. |logo-Urcoustics| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/urcoustics_transparent.png
+.. |logo-Urcoustics| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/urcoustics_transaprent.png
    :target: https://urcoustics.com/
    :alt: Urcoustics
-   :height: 30
+   :height: 25
 
    
    
