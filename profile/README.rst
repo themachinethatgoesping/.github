@@ -172,7 +172,7 @@
    :height: 15
 
 .. |logo-SSPIRIT| image:: https://github.com/themachinethatgoesping/.github/blob/main/profile/SSPIRIT-transparent.png
-   :target: https://hydrogeo.ugent.be/sspirit-about/
+   :target: https://storymaps.arcgis.com/stories/35fa8304ce844ebd95b461bfb9ef4f18
    :alt: SSPIRIT
    :height: 25
 
